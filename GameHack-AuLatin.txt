@@ -164,7 +164,9 @@ User:AndyP|-|Pass:AndyP|-|Hwid:AD7217FF9E2E58BF05CE6F813939C042 =END
 17/05/2025  //Inicio
 08/08/2025  //Final
 
+User:AndyP|-|Pass:AndyP|-|Hwid:A =END
 User:AndyP|-|Pass:AndyP|-|Hwid:B =END
+User:AndyP|-|Pass:AndyP|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
 //will> Erick Roberto Huaman Bazan
