@@ -565,7 +565,7 @@ User:AngelQ|-|Pass:AngelQ|-|Hwid:5E560CE808AE013B39E0DE3BB7845D65 =END
 17/06/2025  //Inicio
 18/08/2025  //Final
 
-User:AngelQ|-|Pass:AngelQ|-|Hwid:A  =END
+User:AngelQ|-|Pass:AngelQ|-|Hwid:A =END
 User:AngelQ|-|Pass:AngelQ|-|Hwid:B =END
 User:AngelQ|-|Pass:AngelQ|-|Hwid:C =END
 ---------------------------------------------------------------------------------
