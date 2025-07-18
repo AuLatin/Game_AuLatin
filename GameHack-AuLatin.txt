@@ -1171,9 +1171,9 @@ User:CristianP|-|Pass:CristianP|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //> will< Joswel Lino  su amiga brisa nicole
 User:BrisaN|-|Pass:BrisaN|-|Hwid:FB7E776C5714C2E96B557604D179F709 =END
-02/05/2025  //Inicio
-18/07/2025  //Final
-Bienvenido!
+17/07/2025  //Inicio
+18/08/2025  //Final
+
 User:BrisaN|-|Pass:BrisaN|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> roxy < roberto FERNANDO FLORES FERNANDES CLIENTE WSp
