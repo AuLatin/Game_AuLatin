@@ -153,9 +153,9 @@ User:JavierC|-|Pass:JavierC|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //<Renova will Graciela TY VIP
 User:GracielaTY|-|Pass:GracielaTY|-|Hwid:FA5967F3257DD9BFCC8FC562F4B5FC0B =END
-19/06/2025  //Inicio
-21/07/2025  //Final
-Se la quiere <3
+17/07/2025  //Inicio
+21/08/2025  //Final
+
 User:GracielaTY|-|Pass:GracielaTY|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
