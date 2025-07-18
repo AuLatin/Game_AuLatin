@@ -455,14 +455,14 @@ User:YersonK|-|Pass:YersonK|-|Hwid:Bx =END
 User:YersonK|-|Pass:YersonK|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
-//<Roxy  Hanz De la Cruz 
+//<will  Hanz De la Cruz 
 User:HanzD|-|Pass:HanzD|-|Hwid:3B0AFFD59FF1F6219FB82269FA056A64 =END
-16/06/2024  //Inicio
-16/07/2025  //Final
+17/07/2025  //Inicio
+18/08/2025  //Final
 Bienvenido!!
-User:HanzD|-|Pass:HanzD|-|Hwid:A =END
+User:HanzD|-|Pass:HanzD|-|Hwid:Ax =END
 User:HanzD|-|Pass:HanzD|-|Hwid:B =END
-User:HanzD|-|Pass:HanzD|-|Hwid:C =END
+User:HanzD|-|Pass:HanzD|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
 //<Roxy>  Anderson HA  
