@@ -1582,4 +1582,11 @@ User:BryanMM|-|Pass:BryanMM|-|Hwid:6DD2398FA50E425F18DF856DD26D3FCC =END
 19/08/2025  //Final
 Bienvenido!
 User:BryanMM|-|Pass:BryanMM|-|Hwid:A =END
-
+---------------------------------------------------------------------------------
+//> will < Diego Avz solo vip
+User:DiegoAvs|-|Pass:DiegoAvs|-|Hwid:8BCCDD6C60F9C457A087DBA6B72846D5 =END
+19/07/2025  //Inicio
+20/08/2025  //Final
+Bienvenido!
+User:DiegoAvs|-|Pass:DiegoAvs|-|Hwid:B =END
+---------------------------------------------------------------------------------
