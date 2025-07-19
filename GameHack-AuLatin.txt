@@ -1579,7 +1579,7 @@ User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:B =END
 //> roxy < bryan machacuay cliente wsp
 User:BryanMM|-|Pass:BryanMM|-|Hwid:6DD2398FA50E425F18DF856DD26D3FCC =END
 18/07/2025  //Inicio
-18/08/2025  //Final
+19/08/2025  //Final
 Bienvenido!
 User:BryanMM|-|Pass:BryanMM|-|Hwid:A =END
 
