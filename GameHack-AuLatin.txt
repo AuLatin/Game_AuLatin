@@ -1577,9 +1577,9 @@ User:AntonyR|-|Pass:AntonyR|-|Hwid:B =END
 User:AntonyR|-|Pass:AntonyR|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //> roxy < harold vilca quispe cliente wsp
-User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:FE994B2FF514DD7E830300505D40FADA =END
-16/07/2025  //Inicio
-16/08/2025  //Final
+User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:65A5F483B03E87F95466CFDE34DAD6D1 =END
+19/07/2025  //Inicio
+19/08/2025  //Final
 Bienvenido!
 User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:B =END
 ---------------------------------------------------------------------------------
