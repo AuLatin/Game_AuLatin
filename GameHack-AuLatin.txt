@@ -931,7 +931,7 @@ User:JohnGr|-|Pass:JohnGr|-|Hwid:C =END
 
 User:PC2S|-|Pass:PC2S|-|Hwid:B1720775FFDCDE92F129FB518A21042C =END
 19/07/2025  //Inicio
-21/07/2025  //Final
+23/07/2025  //Final
 
 User:PC2S|-|Pass:PC2S|-|Hwid:A =END
 User:PC2S|-|Pass:PC2S|-|Hwid:B =END
