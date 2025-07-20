@@ -1605,3 +1605,10 @@ Bienvenido!
 User:DannaV|-|Pass:DannaV|-|Hwid:B =END
 User:DannaV|-|Pass:DannaV|-|Hwid:C =END
 ---------------------------------------------------------------------------------
+//> will < Rosalyn Villena solo vip
+User:RosalynVN|-|Pass:RosalynVN|-|Hwid:5F4616151DEB92222E1FE1E5A76687BB =END
+20/07/2025  //Inicio
+20/08/2025  //Final
+
+User:RosalynVN|-|Pass:RosalynVN|-|Hwid:B =END
+---------------------------------------------------------------------------------
