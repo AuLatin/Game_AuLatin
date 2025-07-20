@@ -1597,3 +1597,11 @@ User:DiegoAvs|-|Pass:DiegoAvs|-|Hwid:8BCCDD6C60F9C457A087DBA6B72846D5 =END
 Bienvenido!
 User:DiegoAvs|-|Pass:DiegoAvs|-|Hwid:B =END
 ---------------------------------------------------------------------------------
+//> roxy < Danna vargas cliente wsp
+User:DannaV|-|Pass:DannaV|-|Hwid:CFC563FA4F9725B958DAF1D1C734536A =END
+18/07/2025  //Inicio
+19/08/2025  //Final
+Bienvenido!
+User:DannaV|-|Pass:DannaV|-|Hwid:B =END
+User:DannaV|-|Pass:DannaV|-|Hwid:C =END
+---------------------------------------------------------------------------------
