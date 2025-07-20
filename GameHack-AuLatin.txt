@@ -1577,11 +1577,11 @@ User:AntonyR|-|Pass:AntonyR|-|Hwid:B =END
 User:AntonyR|-|Pass:AntonyR|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //> roxy < harold vilca quispe cliente wsp
-User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:65A5F483B03E87F95466CFDE34DAD6D1 =END
+User:HaroldVQ|-|Pass:HaroldVQ|-|Hwid:65A5F483B03E87F95466CFDE34DAD6D1 =END
 19/07/2025  //Inicio
 19/08/2025  //Final
 Bienvenido!
-User:HaroldVQ|-|Pass:HarloldVQ|-|Hwid:B =END
+User:HaroldVQ|-|Pass:HaroldVQ|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> roxy < bryan machacuay cliente wsp
 User:BryanMM|-|Pass:BryanMM|-|Hwid:6DD2398FA50E425F18DF856DD26D3FCC =END
