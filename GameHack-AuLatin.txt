@@ -654,7 +654,7 @@ User:GersonCh|-|Pass:GersonCh|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
 //>roxy< Diego Orè Enciso VIP 
-User:DiegoO|-|Pass:DiegoO|-|Hwid:F8F911C252BC77D6A16AC9710FB56830 =END
+User:DiegoO|-|Pass:DiegoO|-|Hwid:5426DCEAB9DD435EA1BF41AD9EABE3E6 =END
 19/07/2025  //Inicio
 20/08/2025  //Final 
 
