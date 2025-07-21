@@ -895,7 +895,7 @@ FELIZ AÑO NUEVO!!2025
 User:HansMP|-|Pass:HansMP|-|Hwid:Bx =END
 ---------------------------------------------------------------------------------
 //> Roxy< Franchesco
-User:FranchescoC|-|Pass:FranchescoC|-|Hwid:1BEEF3AFAD3DB6A114077D8401C69765 =END
+User:FranchescoC|-|Pass:FranchescoC|-|Hwid:E26F86C5053EF775CB0E3E3569542B24 =END
 23/03/2025  //Inicio
 24/08/2025  //Final
 
