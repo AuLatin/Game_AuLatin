@@ -303,8 +303,8 @@ User:JheremyS|-|Pass:JheremyS|-|Hwid:Dx =END
 ---------------------------------------------------------------------------------
 //<Renova memo> Denis Avila 30 soles programa completo
 User:DenisA|-|Pass:DenisA|-|Hwid:87CD1F19D531F636282F0B514B5DD903 =END
-16/03/2025  //Inicio
-21/06/2025  //Final
+20/07/2025  //Inicio
+21/08/2025  //Final
 Bienvenido!
 User:DenisA|-|Pass:DenisA|-|Hwid:A =END
 User:DenisA|-|Pass:DenisA|-|Hwid:B =END
