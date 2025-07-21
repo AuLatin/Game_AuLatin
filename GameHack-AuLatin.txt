@@ -582,8 +582,8 @@ User:CharlieJ|-|Pass:CharlieJ|-|Hwid:Bx =END
 //> renova memo<Bryan MT
 User:BryanMT|-|Pass:BryanMT|-|Hwid:8DA11D455CD01B010FAAFCD54BE92963 =END
 23/05/2025  //Inicio
-23/07/2025  //Final 
-Bienvenido!
+23/08/2025  //Final 
+
 User:BryanMT|-|Pass:BryanMT|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
