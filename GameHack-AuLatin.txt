@@ -1114,8 +1114,8 @@ User:YlanC|-|Pass:YlanC|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> Roxy< jhonatan alvarez CLIENTE WSP
 User:JhonatanA|-|Pass:JhonatanA|-|Hwid:F89DFAC7E7CFC98058D7D31493FACB9C =END
-09/06/2025  //Inicio
-09/07/2025  //Final
+20/07/2025  //Inicio
+21/08/2025  //Final
 
 User:JhonatanA|-|Pass:JhonatanA|-|Hwid:Az =END
 User:JhonatanA|-|Pass:JhonatanA|-|Hwid:B =END
