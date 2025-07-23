@@ -1107,7 +1107,7 @@ User:JoseDL|-|Pass:JoseDL|-|Hwid:B =END
 //> will< Ylan Contrera 15 soles
 User:YlanC|-|Pass:YlanC|-|Hwid:53B6515E220C41E4BA79F09B75ECD034 =END
 23/04/2025  //Inicio
-24/07/2025  //Final
+24/08/2025  //Final
 Bienvenido!
 User:YlanC|-|Pass:YlanC|-|Hwid:B =END
 
