@@ -1284,7 +1284,7 @@ User:MatildeG|-|Pass:MatildeG|-|Hwid:9FA3AD256BE74F4F22CE003B412D2F91 =END
 Bienvenido!
 User:MatildeG|-|Pass:MatildeG|-|Hwid:B =END
 ---------------------------------------------------------------------------------
-//> roxy < Mattéo Lorenzo Sca
+//> reneuva memo < Mattéo Lorenzo Sca pago con paypal
 User:MatteoL|-|Pass:MatteoL|-|Hwid:1D0A47868A00BF265C632FCCB0A2B9F4 =END
 20/05/2025  //Inicio
 21/06/2025  //Final
@@ -1456,9 +1456,10 @@ User:DenzelP|-|Pass:DenzelP|-|Hwid:2E732D5B0714A81898A01FFFD8A51AF6 =END
 Bienvenido!
 User:DenzelP|-|Pass:DenzelP|-|Hwid:B =END
 _______________________________________________________________________
+//>memo << pack 1  Matteo Lorenzo Sca
 User:MatteoLS|-|Pass:MatteoLS|-|Hwid:1D0A47868A00BF265C632FCCB0A2B9F4 =END
 23/06/2025  //Inicio
-24/07/2025  //Final
+24/08/2025  //Final
 Bienvenido!
 User:MatteoLS|-|Pass:MatteoLS|-|Hwid:A =END
 User:MatteoLS|-|Pass:MatteoLS|-|Hwid:B =END
