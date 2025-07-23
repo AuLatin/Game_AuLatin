@@ -486,8 +486,8 @@ User:oscar123|-|Pass:oscar123|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 // >Renovza memo< Jose Pereida completo     ft  Iván Gutierrez 
 User:JoseP|-|Pass:JoseP|-|Hwid:366FCDC9950E9ED20AFACAE5F309001D =END
-23/06/2025  //fecha de inicio
-24/07/2025  //fecha final
+23/07/2025  //fecha de inicio
+24/08/2025  //fecha final
 
 User:JoseP|-|Pass:JoseP|-|Hwid:A =END
 User:JoseP|-|Pass:JoseP|-|Hwid:B =END
