@@ -282,11 +282,11 @@ User:CarlosMe|-|Pass:CarlosMe|-|Hwid:B =END
 User:CarlosMe|-|Pass:CarlosMe|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
-//<will> Yan Leandro Salvatierra PACK 1
+//<will> Yan Leandro Salvatierra 
 User:YanL|-|Pass:YanL|-|Hwid:6B6C79F83EAD9AF4D249616FE2770329 =END
 27/06/2025  //Inicio
-28/07/2025  //Final
-Contactanos si deseas renovar :)
+28/08/2025  //Final
+
 User:YanL|-|Pass:YanL|-|Hwid:A =END
 User:YanL|-|Pass:YanL|-|Hwid:B =END
 User:YanL|-|Pass:YanL|-|Hwid:C =END
