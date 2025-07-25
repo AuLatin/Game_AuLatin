@@ -1621,10 +1621,10 @@ Bienvenido!!
 User:FranklinA|-|Pass:FranklinA|-|Hwid:A =END
 
 //> memo < Jhon Robert Valeriano X 15 DYAS
-User:PCS2|-|Pass:PCS2|-|Hwid:B1720775FFDCDE92F129FB518A21042C =END
+User:PCS20|-|Pass:PCS20|-|Hwid:B1720775FFDCDE92F129FB518A21042C =END
 24/07/2025  //Inicio
 08/08/2025  //Final
 Bienvenido!!
-User:PCS2|-|Pass:PCS2|-|Hwid:A =END
+User:PCS20|-|Pass:PCS20|-|Hwid:A =END
 
 
