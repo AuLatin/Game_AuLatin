@@ -833,7 +833,7 @@ User:BryanCF|-|Pass:BryanCF|-|Hwid:B =END
 //>Renova Memo< Jorge Eduardo Puma 35 completo
 User:JorgeEP|-|Pass:JorgeEP|-|Hwid:019A19C387A0CFD63634A8C774907F29 =END
 24/04/2025  //Inicio
-25/07/2025  //Final 
+25/08/2025  //Final 
 Bienvenido!!
 User:JorgeEP|-|Pass:JorgeEP|-|Hwid:A =END
 User:JorgeEP|-|Pass:JorgeEP|-|Hwid:B =END
