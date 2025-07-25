@@ -733,11 +733,11 @@ User:RayBT|-|Pass:RayBT|-|Hwid:B =END
 User:RayBT|-|Pass:RayBT|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
-//> Roxy< Diego Sánchez Pazzini
+//> Renuevo memo< Diego Sánchez Pazzini
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:A335239148480F28BD166088E383B8FB =END
-02/05/2025  //Inicio
-06/07/2025  //Final 
-FELIZ AÑO NUEVO!!2025
+25/07/2025  //Inicio
+25/08/2025  //Final 
+bienvenidos
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:Ax =END
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:B =END
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:Cx =END
