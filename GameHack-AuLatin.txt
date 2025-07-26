@@ -1619,12 +1619,20 @@ User:FranklinA|-|Pass:FranklinA|-|Hwid:47B9C81F79F5581340C61BCAD1968C4C =END
 22/08/2025  //Final
 Bienvenido!!
 User:FranklinA|-|Pass:FranklinA|-|Hwid:A =END
-
+---------------------------------------------------------------------------------
 //> memo < Jhon Robert Valeriano X 15 DYAS
 User:PCS20|-|Pass:PCS20|-|Hwid:B1720775FFDCDE92F129FB518A21042C =END
 24/07/2025  //Inicio
 08/08/2025  //Final
 Bienvenido!!
 User:PCS20|-|Pass:PCS20|-|Hwid:A =END
+---------------------------------------------------------------------------------
+//> memo < Tonny Santos
+User:TonnyS|-|Pass:TonnyS|-|Hwid:F5E982E7ACFBB0C1AE3BAF03ACD4B789 =END
+25/07/2025  //Inicio
+25/08/2025  //Final
+Bienvenido!!
+User:TonnyS|-|Pass:TonnyS|-|Hwid:B =END
+
 
 
