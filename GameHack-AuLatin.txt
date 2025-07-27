@@ -1009,11 +1009,11 @@ User:AlejandroFz|-|Pass:AlejandroFz|-|Hwid:B8DDAE45F4459260E8FECA51A0142B10 =END
 User:AlejandroFz|-|Pass:AlejandroFz|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-//> Roxy< Juan Pérez
+//> Renova memo< Juan Pérez
 User:JuanP|-|Pass:JuanP|-|Hwid:82054616086CBA496439591D815BAB61 =END
-15/04/2025  //Inicio
-15/06/2025  //Final 
-FELIZ AÑO NUEVO!!2025
+27/07/2025  //Inicio
+28/08/2025  //Final 
+Felices fiestas patrias!
 User:JuanP|-|Pass:JuanP|-|Hwid:A =END
 User:JuanP|-|Pass:JuanP|-|Hwid:B =END
 User:JuanP|-|Pass:JuanP|-|Hwid:C =END
