@@ -207,8 +207,8 @@ User:JesusL|-|Pass:JesusL|-|Hwid:Cx =END
 ---------------------------------------------------------------------------------
 //<Renova will> Danny  abarca VIP 
 User:DanyA|-|Pass:DanyA|-|Hwid:E2F1C02A224C8FA330987DFA17001F6D =END
-21/04/2025  //Inicio
-15/07/2025  //Final
+66/07/2025  //Inicio
+16/08/2025  //Final
 
 User:DanyA|-|Pass:DanyA|-|Hwid:B =END
 
