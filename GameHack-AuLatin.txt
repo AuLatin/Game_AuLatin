@@ -97,10 +97,10 @@ User:AmmarD|-|Pass:AmmarD|-|Hwid:Bx =END
 User:AmmarD|-|Pass:AmmarD|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
-//<<Roxy>> MACARENA RIZZO - pago el 22 de junio x 2 meses
+//<<Roxy>> MACARENA RIZZO - pago el 22 de junio x 2 meses/ 28/07x2meses
 User:MacarenaR|-|Pass:MacarenaR|-|Hwid:3E2187EC973AC576A1F26BCB508B7C44 =END
 04/04/2022  //Inicio
-03/09/2025  //Final
+03/11/2025  //Final
 Contactanos si deseas renovar :)
 User:MacarenaR|-|Pass:MacarenaR|-|Hwid:A =END
 User:MacarenaR|-|Pass:MacarenaR|-|Hwid:B =END
