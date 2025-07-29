@@ -580,7 +580,7 @@ User:CharlieJ|-|Pass:CharlieJ|-|Hwid:Bx =END
 
 ---------------------------------------------------------------------------------
 //> renova memo<Bryan MT
-User:BryanMT|-|Pass:BryanMT|-|Hwid:8DA11D455CD01B010FAAFCD54BE92963 =END
+User:BryanMT|-|Pass:BryanMT|-|Hwid:D8FF0A9A92349838F0E9934B85F8E8A8 =END
 23/05/2025  //Inicio
 23/08/2025  //Final 
 
