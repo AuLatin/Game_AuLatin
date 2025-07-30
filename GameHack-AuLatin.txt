@@ -1340,10 +1340,10 @@ User:AbelH|-|Pass:AbelH|-|Hwid:DDD1ED351AA31B0FB047A2BB88608DCC =END
 Bienvenido!
 User:AbelH|-|Pass:AbelH|-|Hwid:B =END
 ---------------------------------------------------------------------------------
-//> roxy < Jorge Luis Santisteban T. 
+//> renueva memo < Jorge Luis Santisteban T. 35soles
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:F041F3B5F8E14D83CAE560CED4CD0D3E =END
 29/05/2025  //Inicio
-30/07/2025  //Final
+30/08/2025  //Final
 Bienvenido!
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:A =END
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:B =END
