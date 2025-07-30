@@ -214,7 +214,7 @@ User:DanyA|-|Pass:DanyA|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
 //<Renova will> Oscar Navarro Sanchez
-User:OscarN|-|Pass:OscarN|-|Hwid:98279869CED86D1B960EDCD4FD5FE842 =END
+User:OscarN|-|Pass:OscarN|-|Hwid:1C1271C76D6415512F168E71FF9C934B =END
 11/07/2025  //Inicio
 11/08/2025  //Final
 
