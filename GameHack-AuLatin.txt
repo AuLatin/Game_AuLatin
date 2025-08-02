@@ -1265,8 +1265,8 @@ User:KatySZ|-|Pass:KatySZ|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //User will Allen Covemns
 User:AllenCV|-|Pass:AllenCV|-|Hwid:04B653A21EACB731B62FE88889C9212F =END
-17/05/2025  //Inicio
-17/06/2025  //Final
+02/08/2025  //Inicio
+02/09/2025  //Final
 
 User:AllenCV|-|Pass:AllenCV|-|Hwid:B =END
 ---------------------------------------------------------------------------------
@@ -1649,6 +1649,7 @@ Bienvenido!
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:A =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:B =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
+
 
 
 
