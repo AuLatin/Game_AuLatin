@@ -247,8 +247,8 @@ User:KaceyA|-|Pass:KaceyA|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //<will> Juan WT  VIP 
 User:JuanW|-|Pass:JuanW|-|Hwid:F14A68C5C2DA195184B4395F658A2424 =END
-28/06/2025  //Inicio
-29/07/2025  //Final
+02/08/2025  //Inicio
+02/09/2025  //Final
 
 User:JuanW|-|Pass:JuanW|-|Hwid:B =END
 
@@ -1649,5 +1649,6 @@ Bienvenido!
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:A =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:B =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
+
 
 
