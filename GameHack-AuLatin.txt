@@ -1071,11 +1071,11 @@ User:RenatoT|-|Pass:RenatoT|-|Hwid:D2D6D072F6F113BED5FF2D4C96193E68 =END
 User:RenatoT|-|Pass:RenatoT|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-// >roxy< Diego Ds
+// >roxy< Diego Ds 1 de agosto
 User:DiegoDs|-|Pass:DiegoDs|-|Hwid:B569BD71094122D63CB7ACC1C9CD1BE0 =END
-30/05/2025  //Inicio
-31/07/2025  //Final
-Bienvenido!
+01/08/2025  //Inicio
+01/09/2025  //Final
+
 User:DiegoDs|-|Pass:DiegoDs|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
@@ -1649,4 +1649,5 @@ Bienvenido!
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:A =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:B =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
+
 
