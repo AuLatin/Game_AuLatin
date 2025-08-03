@@ -1657,6 +1657,13 @@ User:GEBerna|-|Pass:GEBerna|-|Hwid:51BAE1D6BA37A31C8139E0FF09F03DBC =END
 18/08/2025  //Final
 
 User:GEBerna|-|Pass:GEBerna|-|Hwid:B =END
+---------------------------------------------------------------------------------
+// <Memo > Tonny Santos  20 dias Seccion Automiisones/tag
+User:TonnySa|-|Pass:TonnySa|-|Hwid:466C76D9D0A043712DB35F4829846AE2 =END
+03/08/2025  //Inicio
+24/08/2025  //Final
+
+User:TonnySa|-|Pass:TonnySa|-|Hwid:A =END
 
 
 
