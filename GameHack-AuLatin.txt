@@ -1638,18 +1638,25 @@ User:TonnyS|-|Pass:TonnyS|-|Hwid:B =END
 User:AlejandroCH|-|Pass:AlejandroCH|-|Hwid:E198C97F4423E6248FC6E7E49A968EB8 =END
 30/07/2025  //Inicio
 30/08/2025  //Final
-Bienvenido!
+
 User:AlejandroCH|-|Pass:AlejandroCH|-|Hwid:F =END
 ---------------------------------------------------------------------------------
 //> roxy < Emerson Quispe cliente wsp
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:DBC223D20AF6CEA650C786FAF7F9CF2F =END
 31/07/2025  //Inicio
 31/08/2025  //Final
-Bienvenido!
+
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:A =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:B =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
 
+---------------------------------------------------------------------------------
+//GE Berna 15dias 
+User:GEBerna|-|Pass:GEBerna|-|Hwid:51BAE1D6BA37A31C8139E0FF09F03DBC =END
+08/08/2025  //Inicio
+23/08/2025  //Final
+
+User:GEBerna|-|Pass:GEBerna|-|Hwid:B =END
 
 
 
