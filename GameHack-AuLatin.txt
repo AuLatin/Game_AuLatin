@@ -1653,10 +1653,11 @@ User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //GE Berna 15dias 
 User:GEBerna|-|Pass:GEBerna|-|Hwid:51BAE1D6BA37A31C8139E0FF09F03DBC =END
-08/08/2025  //Inicio
-23/08/2025  //Final
+02/08/2025  //Inicio
+18/08/2025  //Final
 
 User:GEBerna|-|Pass:GEBerna|-|Hwid:B =END
+
 
 
 
