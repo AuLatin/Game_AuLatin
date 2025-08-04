@@ -1091,7 +1091,7 @@ User:GiovaniC|-|Pass:GiovaniC|-|Hwid:C =END
 //> will < vip Jean Pierre Aguilar
 User:JeanPA|-|Pass:JeanPA|-|Hwid:4EDC8F495EF2709B5E1BFCF8B2710A69 =END
 01/07/2025  //Inicio
-04/08/2025  //Final
+04/09/2025  //Final
 
 User:JeanPA|-|Pass:JeanPA|-|Hwid:B =END
 
