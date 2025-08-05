@@ -1658,12 +1658,14 @@ User:GEBerna|-|Pass:GEBerna|-|Hwid:51BAE1D6BA37A31C8139E0FF09F03DBC =END
 
 User:GEBerna|-|Pass:GEBerna|-|Hwid:B =END
 ---------------------------------------------------------------------------------
-// <Memo > Tonny Santos  20 dias Seccion Automiisones/tag
+// <Memo > Tonny Santos  20 dias Seccion Automiisones/tag + vip
 User:TonnySa|-|Pass:TonnySa|-|Hwid:466C76D9D0A043712DB35F4829846AE2 =END
 03/08/2025  //Inicio
-24/08/2025  //Final
+25/08/2025  //Final
 
 User:TonnySa|-|Pass:TonnySa|-|Hwid:A =END
+User:TonnySa|-|Pass:TonnySa|-|Hwid:B =END
+
 ---------------------------------------------------------------------------------
 //> roxy < Frank Alex cliente wsp
 User:FrankA|-|Pass:FrankA|-|Hwid:B2188E8D270DF3FE4D5B90807855CB71 =END
@@ -1671,6 +1673,7 @@ User:FrankA|-|Pass:FrankA|-|Hwid:B2188E8D270DF3FE4D5B90807855CB71 =END
 04/09/2025  //Final
 
 User:FrankA|-|Pass:FrankA|-|Hwid:B =END
+
 
 
 
