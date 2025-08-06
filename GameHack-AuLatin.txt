@@ -1,4 +1,4 @@
-Registro GameHack Aulatin
+2Registro GameHack Aulatin
 
 ---------------------------------------------------------------------------------
 //My User
@@ -1081,8 +1081,9 @@ User:DiegoDs|-|Pass:DiegoDs|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> Roxy< Giovani Castro Barzola CLIENTE WSP
 User:GiovaniC|-|Pass:GiovaniC|-|Hwid:B0BCE27D2E1307CA983BDA786415DADC =END
-20/04/2025  //Inicio
-24/07/2025  //Final
+05/08/2025  //Inicio
+06/09/2025  //Final
+
 User:GiovaniC|-|Pass:GiovaniC|-|Hwid:A =END
 User:GiovaniC|-|Pass:GiovaniC|-|Hwid:B =END
 User:GiovaniC|-|Pass:GiovaniC|-|Hwid:C =END
