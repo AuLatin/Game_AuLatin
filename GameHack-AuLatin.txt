@@ -949,8 +949,8 @@ User:JosephEC|-|Pass:JosephEC|-|Hwid:Fx =END
 ---------------------------------------------------------------------------------
 // >memo< Junior Davila PACK 1     35 SOLES
 User:JuniorD|-|Pass:JuniorD|-|Hwid:4A6CCE7C52E7E4075A23A15AE1A1EE56 =END
-05/07/2025  //Inicio
-06/08/2025  //Final
+05/08/2025  //Inicio
+07/09/2025  //Final
 
 User:JuniorD|-|Pass:JuniorD|-|Hwid:A =END
 User:JuniorD|-|Pass:JuniorD|-|Hwid:B =END
@@ -1681,6 +1681,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
