@@ -1210,11 +1210,11 @@ User:KevinAR|-|Pass:KevinAR|-|Hwid:C =END
 //> memo < completo pack 1, cliente antiugo
 User:MrJason|-|Pass:MrJason|-|Hwid:3471913D6D9C80697F5DF738D47499F0 =END
 04/06/2025  //Inicio
-10/08/2025  //Final
+10/09/2025  //Final
 Ms Mayra I love you
 User:MrJason|-|Pass:MrJason|-|Hwid:A =END
 User:MrJason|-|Pass:MrJason|-|Hwid:B =END
-User:MrJason|-|Pass:MrJason|-|Hwid:C =END
+User:MrJason|-|Pass:MrJason|-|Hwid:F =END
 ---------------------------------------------------------------------------------
 //> memo < Joswel Lino , Segunda amiga estefany
 User:Stef100|-|Pass:Stef100|-|Hwid:5242DEADC30906F856396B716A927286 =END
@@ -1681,6 +1681,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
