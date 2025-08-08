@@ -663,8 +663,8 @@ User:DiegoO|-|Pass:DiegoO|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> will < Drek Solorzano pago 30
 User:JimSD|-|Pass:JimSD|-|Hwid:3AA7C8BF60D0A8CC133414B72A762A5E =END
-07/06/2025  //Inicio
-08/08/2025  //Final 
+07/08/2025  //Inicio
+08/09/2025  //Final 
 
 User:JimSD|-|Pass:JimSD|-|Hwid:A =END
 User:JimSD|-|Pass:JimSD|-|Hwid:B =END
@@ -1681,6 +1681,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
