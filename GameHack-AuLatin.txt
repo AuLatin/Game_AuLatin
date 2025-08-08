@@ -170,7 +170,7 @@ User:AndyP|-|Pass:AndyP|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
 //will> Erick Roberto Huaman Bazan
-User:ErickRH|-|Pass:ErickRH|-|Hwid:459306D15BE5660F63645029E969FC38 =END
+User:ErickRH|-|Pass:ErickRH|-|Hwid:3A20E8E3806413410038771AF830B2BC =END
 23/05/2025  //Inicio
 30/09/2025  //Final
 
@@ -1681,6 +1681,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
