@@ -1653,7 +1653,7 @@ User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
 //GE Berna 15dias 
-User:GEBerna|-|Pass:GEBerna|-|Hwid:51BAE1D6BA37A31C8139E0FF09F03DBC =END
+User:GEBerna|-|Pass:GEBerna|-|Hwid:2E732D5B0714A81898A01FFFD8A51AF6 =END
 02/08/2025  //Inicio
 18/08/2025  //Final
 
@@ -1681,6 +1681,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
