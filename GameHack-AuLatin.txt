@@ -965,10 +965,10 @@ User:EzequielMc|-|Pass:EzequielMc|-|Hwid:64A165D5255FA30A7C4B85A80F1F4F08 =END
 User:EzequielMc|-|Pass:EzequielMc|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-// <will> Yoshua Yp
+// <Renova memo> Yoshua Yp VIP
 User:JoshuaYp|-|Pass:JoshuaYp|-|Hwid:982E6B929F85294452CA177E2FACFF9C =END
-01/07/2025  //Inicio
-01/08/2025  //Final
+10/08/2025  //Inicio
+11/09/2025  //Final
 
 User:JoshuaYp|-|Pass:JoshuaYp|-|Hwid:B =END
 
@@ -1683,6 +1683,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
