@@ -1240,7 +1240,7 @@ User:JairJH|-|Pass:JairJH|-|Hwid:B =END
 User:JairJH|-|Pass:JairJH|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //<renova wil> Javier C Roman VIP 15 DIAS
-User:JavierCR|-|Pass:JavierCR|-|Hwid:C07742625E92581294FC9906463F87CF =END
+User:JavierCR|-|Pass:JavierCR|-|Hwid:573C2C79620CB684C724443986466968 =END
 10/08/2025  //Inicio
 10/09/2025  //Final
 Fiestas Arequipeñas!
@@ -1683,6 +1683,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
