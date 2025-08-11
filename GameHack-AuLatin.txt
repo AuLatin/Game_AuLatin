@@ -239,8 +239,8 @@ User:WilliamsC|-|Pass:WilliamsC|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //<will> Kacey Agrum VIP
 User:KaceyA|-|Pass:KaceyA|-|Hwid:F425A11840200B52EE8B4684E6C4CA1B =END
-10/07/2025 //Inicio
-11/08/2025 //Final
+10/08/2025 //Inicio
+11/09/2025 //Final
 
 User:KaceyA|-|Pass:KaceyA|-|Hwid:B =END
 
@@ -1683,6 +1683,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
