@@ -115,7 +115,7 @@ User:MarLH|-|Pass:MarLH|-|Hwid:2610B92A90F80A0F88D3CCDF5C208B15 =END
 
 User:MarLH|-|Pass:MarLH|-|Hwid:ADA3F92CA73CE9FBEB54E5B02CEC15DE =END
 10/07/2025  //Inicio
-11/08/2025  //Final
+12/09/2025  //Final
 
 User:MarLH|-|Pass:MarLH|-|Hwid:A =END
 User:MarLH|-|Pass:MarLH|-|Hwid:B =END
@@ -1683,6 +1683,7 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 06/09/2025  //Final
 
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
+
 
 
 
