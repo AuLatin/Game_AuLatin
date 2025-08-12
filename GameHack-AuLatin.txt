@@ -1549,7 +1549,7 @@ User:StivenA1|-|Pass:StivenA1|-|Hwid:B =END
 //> roxy < AngelFLores cliente wsp
 User:AngelF|-|Pass:AngelF|-|Hwid:4C7CC420B05856DDD9F3A0C619FB666B =END
 11/07/2025  //Inicio
-12/08/2025  //Final
+12/09/2025  //Final
 Bienvenido!
 User:AngelF|-|Pass:AngelF|-|Hwid:B =END
 ---------------------------------------------------------------------------------
