@@ -1685,16 +1685,23 @@ User:NoahNH|-|Pass:NoahNH|-|Hwid:9EABFBD084C7BEDEEB8F82FDBDBC418C =END
 User:NoahNH|-|Pass:NoahNH|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-//Alexis Trebol
+//Alexis Trebol 2 pc
 User:AlexisTR|-|Pass:AlexisTR|-|Hwid:B3B5173F96214C05DF98C788AAAC1085 =END
 11/08/2025  //Inicio
 12/09/2025  //Final
 
 User:AlexisTR|-|Pass:AlexisTR|-|Hwid:B =END
 
+
+User:Fanny|-|Pass:Fanny|-|Hwid:93BC6A8433DFDD43C384C37103AD77C7 =END
+11/08/2025  //Inicio
+12/09/2025  //Final
+
+User:Fanny|-|Pass:Fanny|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
+
 
 
 
