@@ -1565,11 +1565,11 @@ User:VictorP|-|Pass:VictorP|-|Hwid:C =END
 //> roxy < CHARLIE PAYEHUANCA cliente wsp
 User:CharlieP|-|Pass:CharlieP|-|Hwid:FE994B2FF514DD7E830300505D40FADA =END
 12/07/2025  //Inicio
-13/08/2025  //Final
+13/09/2025  //Final
 Bienvenido!
-User:CharlieP|-|Pass:CharlieP|-|Hwid:A =END
+User:CharlieP|-|Pass:CharlieP|-|Hwid:Ax =END
 User:CharlieP|-|Pass:CharlieP|-|Hwid:B =END
-User:CharlieP|-|Pass:CharlieP|-|Hwid:C =END
+User:CharlieP|-|Pass:CharlieP|-|Hwid:Cx =END
 ---------------------------------------------------------------------------------
 //> roxy < antony rios cliente wsp
 User:AntonyR|-|Pass:AntonyR|-|Hwid:E24175CC6D45C5AF21C1640C68574CC3 =END
