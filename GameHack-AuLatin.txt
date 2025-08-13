@@ -1692,12 +1692,21 @@ User:AlexisTR|-|Pass:AlexisTR|-|Hwid:B3B5173F96214C05DF98C788AAAC1085 =END
 
 User:AlexisTR|-|Pass:AlexisTR|-|Hwid:B =END
 
-
+---------------------------------------------------------------------------------
 User:Fanny|-|Pass:Fanny|-|Hwid:93BC6A8433DFDD43C384C37103AD77C7 =END
 11/08/2025  //Inicio
 12/09/2025  //Final
 
 User:Fanny|-|Pass:Fanny|-|Hwid:B =END
+---------------------------------------------------------------------------------
+//>MEMO< José Luis Sdb VIP
+User:JoseLuis|-|Pass:JoseLuis|-|Hwid:699AFEB9E9875E140FDA9C475773D01D =END
+13/08/2025  //Inicio
+14/09/2025  //Final
+BIENVENIDO!
+User:JoseLuis|-|Pass:JoseLuis|-|Hwid:B =END
+
+
 ---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
