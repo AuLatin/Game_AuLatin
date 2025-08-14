@@ -195,10 +195,10 @@ User:JimJ|-|Pass:JimJ|-|Hwid:D52A2F11816DD9323D5026D6508921CE =END
 User:JimJ|-|Pass:JimJ|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-//<Renova> Jesus lima  VIP PROMOION
+//<roxy> Jesus lima  VIP PROMOION
 User:JesusL|-|Pass:JesusL|-|Hwid:95CAEC46B3B96D78D3AB69DD0985E0A5 =END
 15/07/2025  //Inicio
-15/08/2025  //Final
+15/09/2025  //Final
 Bienvenido!
 User:JesusL|-|Pass:JesusL|-|Hwid:Ax =END
 User:JesusL|-|Pass:JesusL|-|Hwid:B =END
@@ -1717,6 +1717,7 @@ User:GabrielC|-|Pass:GabrielC|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
+
 
 
 
