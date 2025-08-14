@@ -52,7 +52,7 @@ User:WinnersP|-|Pass:WinnersP|-|Hwid:G =END  // -
 //<<Renova memo>> Diego salazar  VIP
 User:AmmarD|-|Pass:AmmarD|-|Hwid:66F4FBEC006BE86930A7217C79D02372 =END
 13/07/2025  //Inicio
-14/08/2025  //Final
+14/09/2025  //Final
 
 User:AmmarD|-|Pass:AmmarD|-|Hwid:B =END
 ---------------------------------------------------------------------------------
@@ -1710,6 +1710,7 @@ User:JoseLuis|-|Pass:JoseLuis|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------
+
 
 
 
