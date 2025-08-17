@@ -458,11 +458,9 @@ User:YersonK|-|Pass:YersonK|-|Hwid:Cx =END
 //<will  Hanz De la Cruz 
 User:HanzD|-|Pass:HanzD|-|Hwid:3B0AFFD59FF1F6219FB82269FA056A64 =END
 17/07/2025  //Inicio
-18/08/2025  //Final
-Bienvenido!!
-User:HanzD|-|Pass:HanzD|-|Hwid:Ax =END
+18/09/2025  //Final
+
 User:HanzD|-|Pass:HanzD|-|Hwid:B =END
-User:HanzD|-|Pass:HanzD|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
 //<Roxy>  Anderson HA  
@@ -1723,6 +1721,7 @@ User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:6C4187D3ECBDAA72060EAFC7A5539780 =END
 User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
