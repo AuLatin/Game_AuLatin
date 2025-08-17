@@ -1715,8 +1715,15 @@ User:GabrielC|-|Pass:GabrielC|-|Hwid:A =END
 User:GabrielC|-|Pass:GabrielC|-|Hwid:B =END
 User:GabrielC|-|Pass:GabrielC|-|Hwid:C =END
 ---------------------------------------------------------------------------------
+//Jorge Luis Janampa Ormeño
+User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:6C4187D3ECBDAA72060EAFC7A5539780 =END
+17/08/2025  //Inicio
+17/09/2025  //Final
+
+User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
