@@ -1721,6 +1721,13 @@ User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:6C4187D3ECBDAA72060EAFC7A5539780 =END
 User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
+//>Memo< Aldo Giovanni
+User:AldoG|-|Pass:AldoG|-|Hwid:DF9C88F1F9A49B7C8DD61F75C24B0545 =END
+18/08/2025  //Inicio
+19/09/2025  //Final
+
+User:AldoG|-|Pass:AldoG|-|Hwid:B =END
+
 
 
 
