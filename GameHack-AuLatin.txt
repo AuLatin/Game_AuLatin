@@ -811,10 +811,10 @@ User:IvanMnc|-|Pass:IvanMnc|-|Hwid:BA3C4DC1991AED0CD5BDDA29AD3FDDD7 =END
 User:IvanMnc|-|Pass:IvanMnc|-|Hwid:Bx =END
 
 ---------------------------------------------------------------------------------
-//> Roxy< Frank Romero
+//> Renova mmeo< Frank Romero
 User:FrankRo|-|Pass:FrankRo|-|Hwid:B144E886BD050E15931D8C4000E91E0F =END
-30/06/2025  //Inicio
-31/07/2025  //Final 
+17/08/2025  //Inicio
+17/09/2025  //Final 
 Bienvenido!
 User:FrankRo|-|Pass:FrankRo|-|Hwid:Ax =END
 User:FrankRo|-|Pass:FrankRo|-|Hwid:B =END
@@ -1721,6 +1721,7 @@ User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:6C4187D3ECBDAA72060EAFC7A5539780 =END
 User:JorgeLJO|-|Pass:JorgeLJO|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
