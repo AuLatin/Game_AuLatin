@@ -1339,10 +1339,10 @@ User:AbelH|-|Pass:AbelH|-|Hwid:DDD1ED351AA31B0FB047A2BB88608DCC =END
 Bienvenido!
 User:AbelH|-|Pass:AbelH|-|Hwid:B =END
 ---------------------------------------------------------------------------------
-//> renueva memo < Jorge Luis Santisteban T. 35soles quitar opcion A y C despues del 30
+//> renueva memo < Jorge Luis Santisteban T. 35soles
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:F041F3B5F8E14D83CAE560CED4CD0D3E =END
 29/05/2025  //Inicio
-30/09/2025  //Final
+30/08/2025  //Final
 
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:A =END
 User:JorgeLS|-|Pass:JorgeLS|-|Hwid:B =END
@@ -1728,6 +1728,7 @@ User:AldoG|-|Pass:AldoG|-|Hwid:DF9C88F1F9A49B7C8DD61F75C24B0545 =END
 19/09/2025  //Final
 
 User:AldoG|-|Pass:AldoG|-|Hwid:B =END
+
 
 
 
