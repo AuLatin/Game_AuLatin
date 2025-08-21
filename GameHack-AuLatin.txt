@@ -1238,10 +1238,10 @@ User:JairJH|-|Pass:JairJH|-|Hwid:B =END
 User:JairJH|-|Pass:JairJH|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //<renova wil> Javier C Roman VIP 15 DIAS
-User:JavierCR|-|Pass:JavierCR|-|Hwid:573C2C79620CB684C724443986466968 =END
+User:JavierCR|-|Pass:JavierCR|-|Hwid:CAAA7728ED7AEA85EB9A6E9C871A9486 =END
 10/08/2025  //Inicio
 10/09/2025  //Final
-Fiestas Arequipeñas!
+
 User:JavierCR|-|Pass:JavierCR|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> roxy < PABLO ALVAREZ CLIENTE WSP VIP 15 DIAS
@@ -1728,6 +1728,7 @@ User:AldoG|-|Pass:AldoG|-|Hwid:DF9C88F1F9A49B7C8DD61F75C24B0545 =END
 19/09/2025  //Final
 
 User:AldoG|-|Pass:AldoG|-|Hwid:B =END
+
 
 
 
