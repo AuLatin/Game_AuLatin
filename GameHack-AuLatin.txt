@@ -153,8 +153,8 @@ User:JavierC|-|Pass:JavierC|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //<Renova will Graciela TY VIP
 User:GracielaTY|-|Pass:GracielaTY|-|Hwid:FA5967F3257DD9BFCC8FC562F4B5FC0B =END
-17/07/2025  //Inicio
-21/08/2025  //Final
+17/08/2025  //Inicio
+21/09/2025  //Final
 
 User:GracielaTY|-|Pass:GracielaTY|-|Hwid:B =END
 
@@ -1728,6 +1728,7 @@ User:AldoG|-|Pass:AldoG|-|Hwid:DF9C88F1F9A49B7C8DD61F75C24B0545 =END
 19/09/2025  //Final
 
 User:AldoG|-|Pass:AldoG|-|Hwid:B =END
+
 
 
 
