@@ -1190,7 +1190,7 @@ Bienvenido!
 User:RobertoF|-|Pass:RobertoF|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> will < Regina SD vip
-User:ReginaSD|-|Pass:ReginaSD|-|Hwid:955FBFAC6E1B2CC68A263339570659DB =END
+User:ReginaSD|-|Pass:ReginaSD|-|Hwid:A41C3AA7EB6869A19219C7251A5C4212 =END
 19/08/2025  //Inicio
 20/09/2025  //Final
 
