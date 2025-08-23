@@ -182,7 +182,7 @@ User:ErickRH|-|Pass:ErickRH|-|Hwid:C =END
 //<Renova memo> Jeshus
 User:Jhesus|-|Pass:Jhesus|-|Hwid:F8FCCD55BCFCCBCAFA07E218ED2B5DB3 =END
 19/07/2025  //Inicio
-25/08/2025  //Final
+25/09/2025  //Final
 
 User:Jhesus|-|Pass:Jhesus|-|Hwid:B =END
 
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
