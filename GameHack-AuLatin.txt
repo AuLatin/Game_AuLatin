@@ -231,8 +231,8 @@ User:JoseJ|-|Pass:JoseJ|-|Hwid:Bx =END
 ---------------------------------------------------------------------------------
 //<renova memo> Williams Cabana VIP 
 User:WilliamsC|-|Pass:WilliamsC|-|Hwid:D69C26C3D5F564889E93C865221B1B55 =END
-29/07/2025  //Inicio
-15/08/2025  //Final
+24/08/2025  //Inicio
+09/09/2025  //Final
 
 User:WilliamsC|-|Pass:WilliamsC|-|Hwid:B =END
 
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
