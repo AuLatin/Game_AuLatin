@@ -1646,7 +1646,7 @@ User:AlejandroCH|-|Pass:AlejandroCH|-|Hwid:F =END
 //> roxy < Emerson Quispe cliente wsp
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:DBC223D20AF6CEA650C786FAF7F9CF2F =END
 31/07/2025  //Inicio
-31/08/2025  //Final
+01/10/2025  //Final
 
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:A =END
 User:EmersonQ|-|Pass:EmersonQ|-|Hwid:B =END
