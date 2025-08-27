@@ -1286,7 +1286,7 @@ User:MatildeG|-|Pass:MatildeG|-|Hwid:B =END
 //> reneuva memo < Mattéo Lorenzo Sca pago con paypal
 User:MatteoL|-|Pass:MatteoL|-|Hwid:1D0A47868A00BF265C632FCCB0A2B9F4 =END
 20/05/2025  //Inicio
-21/06/2025  //Final
+27/09/2025  //Final
 Bienvenido!
 User:MatteoL|-|Pass:MatteoL|-|Hwid:B =END
 ---------------------------------------------------------------------------------
