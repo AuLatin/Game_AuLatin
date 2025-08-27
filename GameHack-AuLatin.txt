@@ -492,10 +492,10 @@ User:JoseP|-|Pass:JoseP|-|Hwid:B =END
 User:JoseP|-|Pass:JoseP|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
-//<<will>>   Rolando Mogollon  AD3A40B338F3F36844D13A8785662299
+//<<Renova memo>>   Rolando Mogollon  AD3A40B338F3F36844D13A8785662299
 User:RolandoM|-|Pass:RolandoM|-|Hwid:AD3A40B338F3F36844D13A8785662299 =END
-14/06/2025  //Inicio
-15/07/2025  //Final 
+26/08/2025  //Inicio
+27/09/2025  //Final 
 
 User:RolandoM|-|Pass:RolandoM|-|Hwid:B =END
 
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
