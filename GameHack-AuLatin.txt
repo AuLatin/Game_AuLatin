@@ -110,7 +110,7 @@ User:MacarenaR|-|Pass:MacarenaR|-|Hwid:C =END
 //<will> Mar LH   Elaine Rz - Ely Rz1pc
 User:MarLH|-|Pass:MarLH|-|Hwid:2610B92A90F80A0F88D3CCDF5C208B15 =END
 10/07/2025  //Inicio
-11/08/2025  //Final
+12/09/2025  //Final
 
 
 User:MarLH|-|Pass:MarLH|-|Hwid:ADA3F92CA73CE9FBEB54E5B02CEC15DE =END
@@ -734,7 +734,7 @@ User:RayBT|-|Pass:RayBT|-|Hwid:C =END
 //> Renuevo memo< Diego Sánchez Pazzini
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:A335239148480F28BD166088E383B8FB =END
 25/07/2025  //Inicio
-25/08/2025  //Final 
+26/09/2025  //Final 
 bienvenidos
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:Ax =END
 User:DiegoSP|-|Pass:DiegoSP|-|Hwid:B =END
