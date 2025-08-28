@@ -11,7 +11,7 @@ User:RoxyP|-|Pass:RoxyP|-|Hwid:B =END  // Vip
 User:RoxyP|-|Pass:RoxyP|-|Hwid:C =END  // Auto Garden
 User:RoxyP|-|Pass:RoxyP|-|Hwid:D =END  // Auto Historia
 User:RoxyP|-|Pass:RoxyP|-|Hwid:E =END  // Auto Bugs
-User:RoxyP|-|Pass:RoxyP|-|Hwid:F =END  // Auto Chanel
+User:RoxyP|-|Pass:RoxyP|-|Hwid:F =END  // Auto Chaneledu
 User:RoxyP|-|Pass:RoxyP|-|Hwid:G =END  // -
 
 ---------------------------------------------------------------------------------
@@ -759,8 +759,8 @@ User:JhonDB|-|Pass:JhonDB|-|Hwid:Bx =END
 ---------------------------------------------------------------------------------
 //<Renova WILL> Edu Montessinos VIP RENOVO 2 MESES
 User:EduM|-|Pass:EduM|-|Hwid:661CD678AC2A7BE51A10B542E6CCD128 =END
-04/06/2025  //Inicio
-10/08/2025  //Final
+28/08/2025  //Inicio
+29/10/2025  //Final
 
 User:EduM|-|Pass:EduM|-|Hwid:B =END
 
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
