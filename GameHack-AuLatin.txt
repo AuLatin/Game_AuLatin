@@ -1177,8 +1177,8 @@ User:CristianP|-|Pass:CristianP|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //> will< Joswel Lino  su amiga brisa nicole
 User:BrisaN|-|Pass:BrisaN|-|Hwid:FB7E776C5714C2E96B557604D179F709 =END
-17/07/2025  //Inicio
-18/08/2025  //Final
+28/07/2025  //Inicio
+29/09/2025  //Final
 
 User:BrisaN|-|Pass:BrisaN|-|Hwid:B =END
 ---------------------------------------------------------------------------------
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
