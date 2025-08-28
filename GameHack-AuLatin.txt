@@ -146,7 +146,7 @@ User:DanielAC1|-|Pass:DanielAC1|-|Hwid:Ex =END
 //<will> JAVIER CUEVA  vip 1 meses 
 User:JavierC|-|Pass:JavierC|-|Hwid:08B6DC84BD91697CE9B73A90349B5167 =END
 26/07/2025  //Inicio
-28/08/2025  //Final
+28/09/2025  //Final
 
 User:JavierC|-|Pass:JavierC|-|Hwid:B =END
 
