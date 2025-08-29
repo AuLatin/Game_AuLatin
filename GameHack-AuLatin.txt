@@ -125,7 +125,7 @@ User:MarLH|-|Pass:MarLH|-|Hwid:C =END
 //<renova memo> Ayano Kouji - Completo 30
 User:Ayano1|-|Pass:Ayano1|-|Hwid:003663F2BF52926B45FE151157C239DB =END
 27/06/2025  //Inicio
-29/08/2025  //Final
+31/08/2025  //Final
 
 User:Ayano1|-|Pass:Ayano1|-|Hwid:A =END
 User:Ayano1|-|Pass:Ayano1|-|Hwid:B =END
@@ -1738,6 +1738,7 @@ User:RaulPR|-|Pass:RaulPR|-|Hwid:81FD66CE2730C2EEA1FD26394968E1F4 =END
 User:RaulPR|-|Pass:RaulPR|-|Hwid:F =END
 
 ---------------------------------------------------------------------------------
+
 
 
 
