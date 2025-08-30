@@ -431,10 +431,10 @@ Feliz año nuevo 2025!!
 User:Polianalll|-|Pass:Polianalll|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
-//<renova memo > Luan Afk
+//<renova will > Luan Afk
 User:LuanAfk|-|Pass:LuanAfk|-|Hwid:D2D6B5DD0E792DDE14A485F2AF5C8C80 =END
-29/06/2025  //Inicio
-31/08/2025  //Final
+30/08/2025  //Inicio
+01/10/2025  //Final
 
 User:LuanAfk|-|Pass:LuanAfk|-|Hwid:B =END
 
@@ -1744,6 +1744,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
