@@ -524,13 +524,12 @@ User:DrakeM|-|Pass:DrakeM|-|Hwid:Bx =END
 User:DrakeM|-|Pass:DrakeM|-|Hwid:Cx =END
 
 ---------------------------------------------------------------------------------
-//<<Renova memo>>  Quispe Huallamares Junior VIP
+//<<Renova will>>  Quispe Huallamares Junior VIP
 User:JuniorQ|-|Pass:JuniorQ|-|Hwid:D323AFA51F858EB881076CD36F08CC6A =END
-17/01/2025  //Inicio
-17/02/2025  //Final 
+30/08/2025  //Inicio
+01/10/2025  //Final 
 
-Contactanos si deseas renovar :)
-User:JuniorQ|-|Pass:JuniorQ|-|Hwid:Bx =END
+User:JuniorQ|-|Pass:JuniorQ|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
 //<Memo> Auto garden +Secret
@@ -1744,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
