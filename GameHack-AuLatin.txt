@@ -1638,7 +1638,7 @@ User:TonnyS|-|Pass:TonnyS|-|Hwid:B =END
 //> roxy < alejandro chuquilin cliente wsp
 User:AlejandroCH|-|Pass:AlejandroCH|-|Hwid:E198C97F4423E6248FC6E7E49A968EB8 =END
 30/07/2025  //Inicio
-30/08/2025  //Final
+01/10/2025  //Final
 
 User:AlejandroCH|-|Pass:AlejandroCH|-|Hwid:F =END
 ---------------------------------------------------------------------------------
