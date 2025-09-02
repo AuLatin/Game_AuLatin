@@ -1104,9 +1104,9 @@ User:JoseDL|-|Pass:JoseDL|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> will< Ylan Contrera 15 soles
 User:YlanC|-|Pass:YlanC|-|Hwid:53B6515E220C41E4BA79F09B75ECD034 =END
-23/04/2025  //Inicio
-24/08/2025  //Final
-Bienvenido!
+02/09/2025  //Inicio
+03/10/2025  //Final
+
 User:YlanC|-|Pass:YlanC|-|Hwid:B =END
 
 ---------------------------------------------------------------------------------
@@ -1743,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
