@@ -20,7 +20,7 @@ User:RoxyPC|-|Pass:RoxyPC|-|Hwid:46360A9B07FC467C77AD7476898CC67D =END
 05/06/2025  //Final
 User:RoxyPC|-|Pass:RoxyPC|-|Hwid:F83E85DF6D4E32CEC2B6C2B40F8F5FC3 =END
 30/05/2024  //Inicio
-01/09/2025  //Final
+02/10/2025  //Final
 User:RoxyPC|-|Pass:RoxyPC|-|Hwid:A =END  // Automision
 User:RoxyPC|-|Pass:RoxyPC|-|Hwid:B =END  // Vip
 User:RoxyPC|-|Pass:RoxyPC|-|Hwid:C =END  // Auto Garden
@@ -1743,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
