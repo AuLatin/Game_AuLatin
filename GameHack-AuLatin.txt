@@ -1263,8 +1263,8 @@ User:KatySZ|-|Pass:KatySZ|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //User will Allen Covemns
 User:AllenCV|-|Pass:AllenCV|-|Hwid:04B653A21EACB731B62FE88889C9212F =END
-02/08/2025  //Inicio
-02/09/2025  //Final
+02/09/2025  //Inicio
+04/10/2025  //Final
 
 User:AllenCV|-|Pass:AllenCV|-|Hwid:B =END
 ---------------------------------------------------------------------------------
@@ -1743,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
