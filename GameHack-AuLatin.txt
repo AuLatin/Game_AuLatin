@@ -1009,7 +1009,7 @@ User:AlejandroFz|-|Pass:AlejandroFz|-|Hwid:B =END
 //> Renova memo< Juan Pérez
 User:JuanP|-|Pass:JuanP|-|Hwid:82054616086CBA496439591D815BAB61 =END
 27/07/2025  //Inicio
-28/08/2025  //Final 
+04/09/2025  //Final 
 Felices fiestas patrias!
 User:JuanP|-|Pass:JuanP|-|Hwid:A =END
 User:JuanP|-|Pass:JuanP|-|Hwid:B =END
@@ -1743,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
