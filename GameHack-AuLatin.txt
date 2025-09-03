@@ -680,7 +680,7 @@ User:BlancaA|-|Pass:BlancaA|-|Hwid:B =END
 User:JeanPT|-|Pass:JeanPT|-|Hwid:CB946A99A491FC70F5F83BF89F9C9DA4 =END
 11/05/2025  //Inicio
 11/06/2025  //Final 
-FELIZ AÑO NUEVO!!2025
+
 User:JeanPT|-|Pass:JeanPT|-|Hwid:A =END
 User:JeanPT|-|Pass:JeanPT|-|Hwid:B =END
 User:JeanPT|-|Pass:JeanPT|-|Hwid:C =END
@@ -1088,8 +1088,8 @@ User:GiovaniC|-|Pass:GiovaniC|-|Hwid:C =END
 ---------------------------------------------------------------------------------
 //> will < vip Jean Pierre Aguilar
 User:JeanPA|-|Pass:JeanPA|-|Hwid:4EDC8F495EF2709B5E1BFCF8B2710A69 =END
-01/07/2025  //Inicio
-04/09/2025  //Final
+04/09/2025  //Inicio
+19/09/2025  //Final
 
 User:JeanPA|-|Pass:JeanPA|-|Hwid:B =END
 
@@ -1743,6 +1743,7 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
+
 
 
 
