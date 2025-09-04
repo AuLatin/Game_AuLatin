@@ -1008,9 +1008,9 @@ User:AlejandroFz|-|Pass:AlejandroFz|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //> Renova memo< Juan Pérez
 User:JuanP|-|Pass:JuanP|-|Hwid:82054616086CBA496439591D815BAB61 =END
-27/07/2025  //Inicio
-04/09/2025  //Final 
-Felices fiestas patrias!
+02/09/2025  //Inicio
+04/10/2025  //Final 
+Renovado!
 User:JuanP|-|Pass:JuanP|-|Hwid:A =END
 User:JuanP|-|Pass:JuanP|-|Hwid:B =END
 User:JuanP|-|Pass:JuanP|-|Hwid:C =END
@@ -1750,6 +1750,7 @@ User:AlexanderVa|-|Pass:AlexanderVa|-|Hwid:C025DB64CCED5F065B258AFD3252EEB0 =END
 04/10/2025  //Final
 Bienvenido!
 User:AlexanderVa|-|Pass:AlexanderVa|-|Hwid:B =END
+
 
 
 
