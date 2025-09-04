@@ -1042,7 +1042,7 @@ User:TonnySa|-|Pass:TonnySa|-|Hwid:Bx =END
 //> roxy < Frank Alex cliente wsp
 User:FrankA|-|Pass:FrankA|-|Hwid:B2188E8D270DF3FE4D5B90807855CB71 =END
 04/08/2025  //Inicio
-04/09/2025  //Final
+04/10/2025  //Final
 
 User:FrankA|-|Pass:FrankA|-|Hwid:B =END
 ---------------------------------------------------------------------------------
