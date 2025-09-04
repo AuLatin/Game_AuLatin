@@ -1743,7 +1743,13 @@ User:AndySix|-|Pass:AndySix|-|Hwid:7E91A0A4C3538197A44F3B7A94DAA5D4 =END
 01/10/2025  //Final
 Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
-
+---------------------------------------------------------------------------------
+//> roxy < Alexander Valencia cliente wsp
+User:AlexanderV|-|Pass:AlexanderV|-|Hwid:C025DB64CCED5F065B258AFD3252EEB0 =END
+04/09/2025  //Inicio
+05/10/2025  //Final
+Bienvenido!
+User:AlexanderV|-|Pass:AlexanderV|-|Hwid:B =END
 
 
 
