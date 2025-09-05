@@ -1123,11 +1123,12 @@ Bienvenido!
 User:AlexanderVa|-|Pass:AlexanderVa|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 //>Memo< Sandra Wzp
-User:SandraZ|-|Pass:SandraZ|-|Hwid:OD617E4D8718EDDAC26EAC2777AAOE2A =END
+User:SandraZ|-|Pass:SandraZ|-|Hwid:0D617E4D8718EDDAC26EAC2777AA0E2A =END
 04/09/2025  //Inicio
 05/10/2025  //Final
 BienvenidA INFIELA SUPREMA  DE TODO FDM!
 User:SandraZ|-|Pass:SandraZ|-|Hwid:C =END
+
 
 
 
