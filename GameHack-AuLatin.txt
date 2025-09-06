@@ -481,8 +481,8 @@ User:FranchescoC|-|Pass:FranchescoC|-|Hwid:B =END
 ---------------------------------------------------------------------------------
 // >Renova will< joswel lino 
 User:JoswelLn|-|Pass:JoswelLn|-|Hwid:42EF911C48FD43A417DC9A0A3B681761 =END
-09/05/2025  //Inicio
-18/07/2025  //Final
+05/09/2025  //Inicio
+06/10/2025  //Final
 
 User:JoswelLn|-|Pass:JoswelLn|-|Hwid:Ax =END
 User:JoswelLn|-|Pass:JoswelLn|-|Hwid:B =END
@@ -1128,6 +1128,7 @@ User:SandraZ|-|Pass:SandraZ|-|Hwid:0D617E4D8718EDDAC26EAC2777AA0E2A =END
 05/10/2025  //Final
 BienvenidA INFIELA SUPREMA  DE TODO FDM!
 User:SandraZ|-|Pass:SandraZ|-|Hwid:C =END
+
 
 
 
