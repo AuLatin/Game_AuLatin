@@ -786,11 +786,11 @@ User:OussamaS|-|Pass:OussamaS|-|Hwid:C =END
 //> roxy < Marcos Alberto cliente wsp
 User:MarcosA|-|Pass:MarcosA|-|Hwid:23928DEB5648E807AB3A83785877E040 =END
 10/08/2025  //Inicio
-10/09/2025  //Final
+10/10/2025  //Final
 Bienvenido!
-User:MarcosA|-|Pass:MarcosA|-|Hwid:A =END
+User:MarcosA|-|Pass:MarcosA|-|Hwid:Ax =END
 User:MarcosA|-|Pass:MarcosA|-|Hwid:B =END
-User:MarcosA|-|Pass:MarcosA|-|Hwid:C =END
+User:MarcosA|-|Pass:MarcosA|-|Hwid:xC =END
 ---------------------------------------------------------------------------------
 //> roxy < Sergio MONTERO cliente wsp
 User:SergioM|-|Pass:SergioM|-|Hwid:5F0B8BAF55D671D53047EF6DA7815C9A =END
@@ -1128,6 +1128,7 @@ User:SandraZ|-|Pass:SandraZ|-|Hwid:0D617E4D8718EDDAC26EAC2777AA0E2A =END
 05/10/2025  //Final
 BienvenidA INFIELA SUPREMA  DE TODO FDM!
 User:SandraZ|-|Pass:SandraZ|-|Hwid:C =END
+
 
 
 
