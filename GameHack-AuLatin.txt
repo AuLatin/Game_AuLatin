@@ -1024,7 +1024,7 @@ User:EmersonQ|-|Pass:EmersonQ|-|Hwid:C =END
 
 ---------------------------------------------------------------------------------
 //GE Berna 15dias 
-User:GEBerna|-|Pass:GEBerna|-|Hwid:8C004C40D694335FE2F14BA8EDB891C8 =END
+User:GEBerna|-|Pass:GEBerna|-|Hwid:47E896D3BAB6EC809D1CDFFD5D6D8A0B =END
 06/09/2025  //Inicio
 22/09/2025  //Final
 
@@ -1128,6 +1128,7 @@ User:SandraZ|-|Pass:SandraZ|-|Hwid:0D617E4D8718EDDAC26EAC2777AA0E2A =END
 05/10/2025  //Final
 BienvenidA INFIELA SUPREMA  DE TODO FDM!
 User:SandraZ|-|Pass:SandraZ|-|Hwid:C =END
+
 
 
 
