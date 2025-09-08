@@ -813,13 +813,7 @@ User:NAUTICA|-|Pass:NAUTICA|-|Hwid:E4B417DBF758E8C474E15C8220E3D1DD =END
 14/07/2025  //Final
 Bienvenida!
 User:NAUTICA|-|Pass:NAUTICA|-|Hwid:B =END
-_______________________________________________________________________
-//> memo < Alexander V vip 15 soles
-User:AlexanderV|-|Pass:AlexanderV|-|Hwid:C025DB64CCED5F065B258AFD3252EEB0 =END
-13/06/2025  //Inicio
-15/07/2025  //Final
-Bienvenido!
-User:AlexanderV|-|Pass:AlexanderV|-|Hwid:B =END
+
 _______________________________________________________________________
 //>memo<< vip denzel
 User:DenzelP|-|Pass:DenzelP|-|Hwid:2E732D5B0714A81898A01FFFD8A51AF6 =END
@@ -1116,7 +1110,7 @@ Bienvenido!
 User:AndySix|-|Pass:AndySix|-|Hwid:A =END
 ---------------------------------------------------------------------------------
 //> roxy < Alexander Valencia cliente wsp
-User:AlexanderVa|-|Pass:AlexanderVa|-|Hwid:C025DB64CCED5F065B258AFD3252EEB0 =END
+User:AlexanderVa|-|Pass:AlexanderVa|-|Hwid:C6303F8EE86F957D9F341D3D83418160 =END
 03/09/2025  //Inicio
 04/10/2025  //Final
 Bienvenido!
@@ -1128,6 +1122,7 @@ User:SandraZ|-|Pass:SandraZ|-|Hwid:0D617E4D8718EDDAC26EAC2777AA0E2A =END
 05/10/2025  //Final
 BienvenidA INFIELA SUPREMA  DE TODO FDM!
 User:SandraZ|-|Pass:SandraZ|-|Hwid:C =END
+
 
 
 
